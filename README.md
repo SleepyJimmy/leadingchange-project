@@ -1,5 +1,4 @@
 # leadingchange-project
-website for leading change formative project 
+Decided to create a website to aid the project for the module
 Module name: Leading change in practice
-/** Decided to create a website for a formative project in this module **/
-Date: February 2023
+Date: February 2023 (final year of university term 2)
