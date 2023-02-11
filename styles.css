@@ -178,3 +178,9 @@ h3{
     display: flex;
     top: 40%;
 }
+
+@media (max-width: 600px){
+    html{
+      font-size: 10px;
+  }
+}
