@@ -164,7 +164,7 @@ h1{
     padding-bottom: 3em;
 }
 
-@media (max-width: 600px){
+@media (max-width: 800px){
     #navbar{
     color: transparent;
     display: inline;
