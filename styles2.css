@@ -251,8 +251,16 @@ h2{
         height: 300px;
         width: 400px;
     }
+    .section4{
+        display: inline;
+    }
     .vid3{
         height: 300px;
         width: 400px;
+        text-align: center;
+    }
+    .imglast{
+        width: 400px;
+        height: auto;
     }
 }
