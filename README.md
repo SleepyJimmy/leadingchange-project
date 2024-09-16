@@ -1,4 +1,4 @@
-# leadingchange-project
+# Leading Change Project
 This project was created as part of the "Leading Change in Practice" module during my final year at university (Term 2, February 2023). The website is designed to promote awareness about how to live a healthier lifestyle, both physically and mentally.
 
 
