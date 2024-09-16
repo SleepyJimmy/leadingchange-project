@@ -126,11 +126,12 @@ html{
     margin: 1em;
 }
 
+
 .div1{
     position: absolute;
-    top: 130%;
+    top: 120%;
     text-align: center;
-    left: 5%;
+    left: 15%;
 }
 
 .div1 h3{
@@ -144,9 +145,9 @@ html{
 
 .div2{
     position: absolute;
-    top: 165%;
+    top: 150%;
     text-align: center;
-    left: 15%;
+    left: 22%;
 }
 
 .div2 h3{
@@ -157,6 +158,9 @@ html{
     font-size: 25px;
     color:rgb(169, 125, 89);
 }
+
+
+
 
 .grid-item1{
     grid-column: 1/2;
